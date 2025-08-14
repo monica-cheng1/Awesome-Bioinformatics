@@ -100,6 +100,7 @@ Package suites gather software packages and installation tools for specific lang
 - **GNU Parallel** - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU Parallel. [ [web](http://www.gnu.org/software/parallel) ]
 - **[grabix](https://github.com/arq5x/grabix)** - A wee tool for random access into BGZF files.
 - **[gsort](https://github.com/brentp/gsort)** - Sort genomic files according to a specified order.
+- **[MiXCR](https://github.com/](https://github.com/milaboratory/mixcr)** - Analysis of NGS for immune profiling
 - **[tabix](https://github.com/samtools/tabix)** - Table file index. [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21208982) ]
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
@@ -151,6 +152,7 @@ The following items allow for scalable genomic analysis by introducing specializ
 
 - **[Hail](https://github.com/hail-is/hail)** - Scalable genomic analysis.
 - **[GLNexus](https://github.com/dnanexus-rnd/GLnexus)** - Scalable gVCF merging and joint variant calling for population sequencing projects. [ [paper-2018](https://www.biorxiv.org/content/10.1101/343970v1.abstract) ]
+-  **[Platforma](https://github.com/hail-is/hail](https://github.com/milaboratory/platforma)** - No-code bioinformatics platform for NGS data
 
 ### Sequence Alignment
 
